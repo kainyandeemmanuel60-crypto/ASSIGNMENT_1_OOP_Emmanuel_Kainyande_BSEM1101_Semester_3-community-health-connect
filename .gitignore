@@ -1,0 +1,13 @@
+
+# Exclude locally stored patient and appointment data
+community_health_data.json
+community_health_data.json.tmp
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local environment settings
+.env
+.venv/
+venv/
